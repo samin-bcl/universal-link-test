@@ -2,7 +2,7 @@
   <div>
     {{ id }}
     <br>
-    <a :href="`get-pack/${id}`">Install Pack</a>
+    <a :href="`combraincraftstickemaker://${id}`">Install Pack</a>
   </div>
 </template>
 
