@@ -1,6 +1,6 @@
 <template>
   <div>
-    <a href="/create-sticker">Create Raw</a>
+    <a href="combraincraftstickemaker://create-sticker">Create</a>
     <br>
     <NuxtLink to="/packs">Packs</NuxtLink>
   </div>
