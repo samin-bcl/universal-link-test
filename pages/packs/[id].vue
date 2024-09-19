@@ -2,7 +2,7 @@
   <div>
     {{ id }}
     <br>
-    <NuxtLink :to="`get-pack/${id}`">Install Pack</NuxtLink>
+    <a :href="`get-pack/${id}`">Install Pack</a>
   </div>
 </template>
 
