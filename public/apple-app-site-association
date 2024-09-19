@@ -4,7 +4,7 @@
         "details": [
             {
                 "appID": "U8DK4S4CV4.com.braincraft.stickemaker",
-                "paths": ["*"]
+                "paths": ["/get-pack/*", "/create-sticker"]
             }
         ]
     }
