@@ -1,9 +1,9 @@
 <template>
-  <div>
-    <Head>
+  <Head>
       <Title>Sticker Maker 4.0</Title>
-      <meta name="apple-itunes-app" content="app-id=1505991796">
+      <Meta name="apple-itunes-app" content="app-id=1505991796"/>
     </Head>
+  <div>
     <slot/>
   </div>
 </template>
